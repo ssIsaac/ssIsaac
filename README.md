@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!  👋
 
 <!--
 **ssIsaac/ssIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Hello World! I'm Isaac, a final year BSc Computer Science with Artificial Intelligence student at King's College London 🎓. Aspiring to be a trailblazer in the tech realm, I'm passionate about the intersection of computer science and artificial intelligence.
+🚀 I'm Isaac, a final year BSc Computer Science with Artificial Intelligence student at King's College London 🎓. Aspiring to be a trailblazer in the tech realm, I'm passionate about the intersection of computer science and artificial intelligence.
 
 💻 My coding journey has been an exhilarating exploration of algorithms, data structures, and the boundless possibilities of software engineering. From crafting elegant solutions to complex problems to diving deep into the world of machine learning, I thrive on the challenges that the tech landscape presents.
 
