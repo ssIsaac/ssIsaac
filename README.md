@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚀 Hello World! I'm Isaac, a final year BSc Computer Science with Artificial Intelligence student at King's College London 🎓. Aspiring to be a trailblazer in the tech realm, I'm passionate about the intersection of computer science and artificial intelligence.
+
+💻 My coding journey has been an exhilarating exploration of algorithms, data structures, and the boundless possibilities of software engineering. From crafting elegant solutions to complex problems to diving deep into the world of machine learning, I thrive on the challenges that the tech landscape presents.
+
+🔍 Currently honing my skills through hands-on projects and coursework, I am equipped with a strong foundation in languages like Python and Java. My academic journey has not only polished my problem-solving abilities but also instilled a keen eye for detail in writing efficient and maintainable code.
+
+🚧 Excited about the endless possibilities that lie ahead, I am seeking opportunities to delve into real-world challenges, contribute to impactful projects, and continue my growth as a software engineer. Let's connect and code the future together! 💬✨
